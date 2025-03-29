@@ -31,13 +31,10 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/e8eb653c81e5464a9ae724c7e5f40351">
-      <p>Trivia App Update - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/e8eb653c81e5464a9ae724c7e5f40351">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e8eb653c81e5464a9ae724c7e5f40351-4a946b31a09bd3ad-full-play.gif">
     </a>
   </div>
-https://www.loom.com/share/e8eb653c81e5464a9ae724c7e5f40351
+
 
 
 ## Notes
